@@ -13,7 +13,7 @@ B站视频：https://www.bilibili.com/video/BV1oT41137CU<br>
 
 克隆本仓库至/root目录<br>
 ```
-git clone https://github.com/HelloZhing/pvevm-hooks.git
+git clone https://github.com/sclsyin/pvevm-hooks.git
 ```
 添加可执行权限<br>
 ```
